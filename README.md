@@ -180,5 +180,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or further information, feel free to reach out:
 
 - **Name**: Nipuna Madula
-- **Email**: [nipunamadula2001@gmail.com](mailto:nipunamadula2001@gmail.com)
-- **LinkedIn**: [Nipuna Madula on LinkedIn](https://www.linkedin.com/in/nipunamadula/)
+- **Email**: deelakasenal2001@gmail.com
