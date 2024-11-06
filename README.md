@@ -179,5 +179,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact
 For any inquiries or further information, feel free to reach out:
 
-- **Name**: Nipuna Madula
+- **Name**: Deelaka Senal
 - **Email**: deelakasenal2001@gmail.com
